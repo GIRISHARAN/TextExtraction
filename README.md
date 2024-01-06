@@ -11,9 +11,11 @@ The Text Recognition Application is a cloud-based solution that leverages AWS se
 Hosted Application: http://EC2-PublicIP:3000/
 
 Architecture and flow
+
 https://github.com/GIRISHARAN/TextExtraction/assets/30079876/1ce235b1-a852-4e96-878a-8deabb110ffc
 
 Short Demo
+
 https://github.com/GIRISHARAN/TextExtraction/assets/30079876/acc64950-470d-49ca-a176-cf78a828b5c7
 
 ## Table of Contents
