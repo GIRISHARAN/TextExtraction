@@ -4,7 +4,8 @@
 
 The Text Recognition Application is a cloud-based solution that leverages AWS services to offer users the ability to extract text from images using Amazon Textract. This user-friendly application facilitates the extraction of text from various sources, including handwritten notes, scanned documents, printed text, and code snippets.
 
-![Project Architecture]()
+![Project Architecture](![AWS_Image](https://github.com/GIRISHARAN/TextExtraction/assets/30079876/8528dba7-8a01-47e5-96a2-f65186fd37a8)
+)
 
 ## Project Links and Demo
 
